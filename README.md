@@ -1,5 +1,7 @@
-# <h1 style="text-align:center;">Axxo Vault</h1>
+<h1 style="text-align:center;">Axxo Vault</h1>
 <br>
+<img width="1190" height="476" alt="ChatGPT Image Jun 18, 2026, 08_00_07 PM" src="https://github.com/user-attachments/assets/f83e5148-cad7-46f6-b2b4-f826fa1bfce8" />
+
 
 ### Secure Local File Sharing for Android
 
@@ -51,7 +53,24 @@
 
 ## Screenshots
 
-> Add your screenshots here
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/20e0838b-6d40-4965-9119-af6a3dc1439c"
+           alt="Axxo Vault Webpage"
+           height="500"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2231ef33-d42a-4fed-9a1c-81eea8f0d733"
+           alt="Axxo Vault Mobile"
+           height="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web Dashboard</b></td>
+    <td align="center"><b>Android Application</b></td>
+  </tr>
+</table>
 
 
 ---
