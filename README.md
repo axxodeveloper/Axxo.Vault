@@ -155,22 +155,6 @@ Run on an Android emulator or physical device.
 
 ✔ Lightweight Architecture
 
----
-
-## Roadmap
-
--  QR Code Device Pairing
-    
--  Multi-File Transfers
-    
--  Transfer History
-    
--  Dark & Light Dynamic Themes
-    
--  Transfer Progress Analytics
-    
--  Cross-Platform Support
-    
 
 ---
 
