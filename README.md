@@ -15,7 +15,7 @@
 
 - Built entirely with **Kotlin** and **Jetpack Compose**, Axxo Vault enables direct peer-to-peer transfers and browser-based file access without relying on cloud storage, third-party servers, or internet connectivity.
 
-- Whether devices are connected through a Wi-Fi router or a mobile hotspot, files can be shared instantly with minimal setup.
+- Whether devices are connected through a **Wi-Fi** router or a **mobile hotspot**, files can be shared instantly with minimal setup.
 
 ---
 
@@ -200,4 +200,4 @@ See the LICENSE file for more information.
 
 Fast. Secure. Local.
 
-**Axxo Vault © 2026**
+**Axxo Labs © 2026**
